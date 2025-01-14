@@ -1,6 +1,6 @@
 # 💫 Hi , I am Jay Prakash:                                                                                         
   <br>  [My Website](https://prompthubgpt.netlify.app/)
-
+[SKILL CODERS](https://iamjayprakash.github.io/skill-coders-main/)
 Some Projects: https://prompt-czh3d1mqx-jay-prakashs-projects.vercel.app/
 <br>"Passionate and driven M.C.A student with a background in electronics,<br>specializing in programming and eager to learn and contribute to open-source projects."<br><br>🔭 I'm currently working on honing my technical skills and building my knowledge in various programming languages, including C++, Python, and C.<br>👯I'm looking to collaborate on exciting projects that challenge my abilities and allow me to learn and grow as a developer.<br>🤝I'm looking for help with expanding my network and finding new opportunities to further my career in the tech industry.<br>💬 I'm currently learning about Web Development and ethical hacking, as well as other technical concepts that will help me excel in my field.<br>⚡Ask me about my experience as a student representative, event organizer, and volunteer, or for a fun fact, I once secured 2nd position in The Virtuelle Welt 3.0 competition..
 
