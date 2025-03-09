@@ -4,7 +4,7 @@
 
 I'm a passionate Software Engineer currently at **Ksolves India Limited** with a strong background in Electronics and a Master’s in Computer Application. I thrive on solving complex problems and contributing to open-source projects. Welcome to my profile!
 
-[Visit my website](https://prompthubgpt.netlify.app/) | [Skill Coders](https://iamjayprakash.github.io/skill-coders-main/)
+[Visit my website](https://heyjayprakash.netlify.app/) | [Skill Coders](https://iamjayprakash.github.io/skill-coders-main/)
 
 ---
 
@@ -21,7 +21,7 @@ I'm a passionate Software Engineer currently at **Ksolves India Limited** with a
 ---
 
 ## 🔥 Projects
-- [Prompt Hub](https://prompt-hub-ebon.vercel.app/)
+- [Prompt Hub](https://prompthubgpt.netlify.app/)
 - [Moze](https://moze-seven.vercel.app/)
 - [Apex System Care](https://apex-system-care.vercel.app/)
 - [Infix to Postfix and Prefix](https://infix-to-postfix-and-prefix.vercel.app/)
