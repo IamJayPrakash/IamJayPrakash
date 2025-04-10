@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Building+the+web%2C+one+line+at+a+time;Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+Expert)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Building+the+web%2C+one+line+at+a+time;Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+Expert)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://heyjayprakash.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamjayprakash)
