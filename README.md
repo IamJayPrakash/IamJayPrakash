@@ -138,7 +138,7 @@ Through my career, I've enhanced frontend performance by 40%, optimized backend 
 <div align="">
 
 ### 🏅 Awards
-- **Star Performer Award** - Ksolves India Limited (2024-25)
+- **Star Performer Award** - Ksolves India Limited (2024-25), (2025-2026)
 - **SPOT Award** - Ksolves India Limited (2024-25)
 - **University Gold Medalist Runner-Up** - Delhi University (2022)
 - **Graduation Topper** - First position in class (2022)
