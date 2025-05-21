@@ -101,6 +101,8 @@ Through my career, I've enhanced frontend performance by 40%, optimized backend 
 | **Prompt Hub** | Community platform to explore and share AI prompts | React.js, Tailwind CSS, Next Auth | [Live Demo](https://prompthubgpt.netlify.app/) |
 | **Moze** | Modern e-commerce UI with product showcase | Next.js, Tailwind CSS | [Live Demo](https://moze-seven.vercel.app/) |
 | **LiveCodeShare** | A real time code sharing profile | Next.js, Tailwind CSS | [Live Demo](https://livecodeshare.vercel.app/) |
+| **ApexFeedBLog** | A Blog app | Next.js, Tailwind CSS | [Live Demo](https://apexfeedblog.vercel.app/) |
+
 
 
 
