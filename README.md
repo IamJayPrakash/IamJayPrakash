@@ -102,6 +102,8 @@ Through my career, I've enhanced frontend performance by 40%, optimized backend 
 | **Moze** | Modern e-commerce UI with product showcase | Next.js, Tailwind CSS | [Live Demo](https://moze-seven.vercel.app/) |
 | **LiveCodeShare** | A real time code sharing profile | Next.js, Tailwind CSS | [Live Demo](https://livecodeshare.vercel.app/) |
 | **ApexFeedBLog** | A Blog app | Next.js, Tailwind CSS | [Live Demo](https://apexfeedblog.vercel.app/) |
+| **FileShareDrop** | A file sharing app | A  free file sharing application built with Next.js, Express, and Socket.io. | [Live Demo](https://file-share-drop.vercel.app/) |
+
 
 
 
