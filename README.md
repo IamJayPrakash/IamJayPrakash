@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamjayprakash)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammrjayprakash@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jayprak56111945)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/j_a_y__p_r_a_k_a_s_h)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Iam_JayPrakash)
 
 </div>
@@ -116,46 +115,6 @@ Through my career, I've enhanced frontend performance by 40%, optimized backend 
 - [3D Text (Three.js)](https://3dtextthreejs.netlify.app/) - 3D text animation
 - [To-Do App](https://to-do-app-react-redux-plum.vercel.app/) - Task management with React Redux
 
-## 👨‍💻 Professional Experience
-
-**Software Engineer** - *Ksolves India Limited* | July 2024 - Present
-- Engineered responsive web applications serving 5000+ daily active users
-- Enhanced frontend performance by 40% through component optimization
-- Implemented CI/CD pipelines resulting in 30% faster deployment cycles
-
-**Software Developer Intern** - *Ksolves India Limited* | Aug 2023 - June 2024
-- Developed and maintained features for SaaS products
-- Optimized backend APIs resulting in 25% improved response times
-- Created automated test suites achieving 90% code coverage
-
-## 🎓 Education
-
-- **Master in Computer Application (MCA)** - ABES Engineering College, Ghaziabad *(2022-2024)* - *81%*
-- **B.Sc (Hons.) Electronics** - Keshav Mahavidyalaya, University of Delhi *(2019-2022)* - *CGPA 9.351*
-  - *University Gold Medalist Runner-Up*
-  - *First Position in Class*
-- **Senior Secondary** - ST. Karen's Secondary School *(2019)* - *87.6%*
-- **Secondary** - ST. Karen's Secondary School *(2017)* - *10 CGPA*
-
-## 🏆 Achievements & Certifications
-
-<div align="">
-
-### 🏅 Awards
-- **Star Performer Award** - Ksolves India Limited (2024-25), (2025-2026)
-- **SPOT Award** - Ksolves India Limited (2024-25)
-- **University Gold Medalist Runner-Up** - Delhi University (2022)
-- **Graduation Topper** - First position in class (2022)
-- **CIRCUITRIX** - 3rd Prize in Circuit Design Competition (2021)
-- **Virtuelle Welt 3.0** - 2nd Prize in Web Development (2020)
-
-### 📜 Certifications
-- React (Basic) – HackerRank
-- JavaScript (Basic) – HackerRank
-- SQL (Basic) – HackerRank
-- The Complete Web Development Bootcamp – Udemy
-- Git & GitHub – JS Mastery Pro
-- Introduction to Programming Using Python – Cisco Networking Academy
 
 </div>
 
