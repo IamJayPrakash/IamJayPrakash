@@ -42,10 +42,7 @@ Through my career, I've enhanced frontend performance by 40%, optimized backend 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamJayPrakash&layout=compact&theme=react" alt="Top Languages" height="180" />
 </div>
 
-<div align="center">
-  
 
-</div>
 
 ## 🚀 Skills & Technologies
 
