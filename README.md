@@ -1,4 +1,4 @@
-# 👨‍💻 Jay Prakash | Full Stack Software Engineer
+# 👨‍💻 Jay Prakash | Software Engineer
 
 <div align="center">
   
