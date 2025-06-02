@@ -11,7 +11,6 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Iam_JayPrakash)
 
 </div>
-
 <div align="center">
   
 > "Let your code speak the language of simplicity, while concealing the complexity of your genius."
