@@ -100,6 +100,26 @@ Through my career, I've enhanced frontend performance by 40%, optimized backend 
 | **FileShareDrop** | A file sharing app | A  free file sharing application built with Next.js, Express, and Socket.io. | [Live Demo](https://file-share-drop.vercel.app/) |
 
 
+https://hijp.vercel.app
+
+https://www.linkedin.com/in/iamjayprakash/
+https://github.com/IamJayPrakash
+
+Recent works:
+- https://livecodeshare.vercel.app/
+- https://guptascreation.vercel.app/
+- https://gauri-ghee.vercel.app/
+- https://file-share-drop.vercel.app/
+- https://fatafatbecho.vercel.app/
+- https://trustechsolutions.vercel.app/
+- https://www.mpuinteriors.in/
+- https://mindseekers.vercel.app/
+- https://apex-system-care.vercel.app/
+- https://interview-wise.vercel.app/
+- https://skillcoders.vercel.app/
+
+
+
 
 
 
